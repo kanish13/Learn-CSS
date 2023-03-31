@@ -24,7 +24,7 @@ Horizontal Line Alteration:
                 border-style: none;
                 height: 2px;
                 width: 30%;
-            }![Screenshot (79)](https://user-images.githubusercontent.com/111358462/229183511-dac647fb-4afe-43d1-b474-584b7316885f.png)
+            }
 
         
 border-style: none; - THIS LINE REMOVES THE BORDER OF HORIZONTAL LINE
