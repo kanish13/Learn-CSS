@@ -1,5 +1,6 @@
 Internal CSS:
 Instead of using style inside the all tags, we can have separate style tag inside the head tag which is written only once to adapt for all tags
+
 Change Background color:
 
       <head>
