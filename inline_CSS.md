@@ -5,7 +5,7 @@ In this is lecture we will see how to change the background color of webpage ins
 <body style="background-color:blue;">
   
 ![Screenshot (75)](https://user-images.githubusercontent.com/111358462/229170928-0d1594bf-a6be-4a5d-a4c1-fa7987d691d6.png)
-
+  
 you can use various hexa values to change the colors:
 
 <body style="background-color:#BBD6B8;">
