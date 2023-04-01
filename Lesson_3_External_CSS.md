@@ -1,4 +1,5 @@
 External CSS:
+
 •	Create a separate folder called ‘css’ where you have your website and create a file called ‘style.css’
 
  ![image](https://user-images.githubusercontent.com/111358462/229285203-4348f2ae-787d-4e47-b3d0-1949e5b47dfc.png)
