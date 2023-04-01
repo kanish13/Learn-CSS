@@ -8,6 +8,8 @@ How to debug css code?
 
 •	So to find the error easily . just go to your webpage and right click . you can see the ‘inspect’ option . click that.
 
+• Go to console.
+
  ![image](https://user-images.githubusercontent.com/111358462/229287124-4516fa33-391d-45a0-99e8-6f905683b51f.png)
 
 •	In this image , you can see file not found error with line number . So debugging is made easy through this
