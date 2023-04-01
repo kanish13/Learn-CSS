@@ -9,7 +9,8 @@ property – what?       Ex: background-color,font-size
 value  – how?          Ex: 100px,50%
 
 •	you can have multiple properties under same section 
-•	It is advisable to arrange the property in alphabetical order
+
+•	It is advisable to arrange the properties in alphabetical order
 
 Ex :
 
