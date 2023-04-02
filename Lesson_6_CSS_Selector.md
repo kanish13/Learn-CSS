@@ -34,3 +34,32 @@ Here I have created two different class for two different image
 OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/111358462/229327968-3d678d45-8eb1-488a-b618-bb1fcd734077.png)
+
+Id:
+•	It is also used to modify specific elements but each id should be unique
+•	You cannot use two id names inside same id
+•	You should use # before id name in css file
+Ex:
+
+    <h1 id="headings">I Love Bacon</h1>
+
+    #headings{
+        color: rgb(255, 238, 0);
+    }
+
+![image](https://user-images.githubusercontent.com/111358462/229329258-3339c17f-e339-422f-8d01-82cda94cae59.png)
+
+ 
+Psedo class:
+•	It can be used by using :hover which shows the changes when you point the element using mouse pointer
+Ex:
+
+    img:hover{
+        background-color: black;
+    }
+
+ ![image](https://user-images.githubusercontent.com/111358462/229329268-9ccb2bbf-4d8f-445d-8420-eaed0083dac9.png)
+
+ 
+[ IN THIS IMAGE YOU CAN SEE THE COLOR CHANGED WHEN I PLACED THE MOUSE POINTER ON THE IMAGE]
+
