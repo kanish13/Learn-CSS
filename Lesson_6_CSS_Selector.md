@@ -36,8 +36,11 @@ OUTPUT:
 ![image](https://user-images.githubusercontent.com/111358462/229327968-3d678d45-8eb1-488a-b618-bb1fcd734077.png)
 
 Id:
+
 •	It is also used to modify specific elements but each id should be unique
+
 •	You cannot use two id names inside same id
+
 •	You should use # before id name in css file
 Ex:
 
@@ -51,7 +54,9 @@ Ex:
 
  
 Psedo class:
+
 •	It can be used by using :hover which shows the changes when you point the element using mouse pointer
+
 Ex:
 
     img:hover{
